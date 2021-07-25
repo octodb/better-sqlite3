@@ -1,7 +1,7 @@
 {
   "name": "better-sqlite3-octodb",
   "version": "8.0.1",
-  "description": "OctoDB for Node.js, based on better-sqlite3",
+  "description": "OctoDB for Node.js, using better-sqlite3",
   "homepage": "http://github.com/octodb/better-sqlite3",
   "author": "Joshua Wise <joshuathomaswise@gmail.com>",
   "repository": {
